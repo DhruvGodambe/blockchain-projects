@@ -1,0 +1,16 @@
+{
+  "description": "Shield is used for protect from a danger, risk, or unpleasant experience.",
+  "image": "ipfs://QmTkvCFatV7TegNe8ANPcBEvpLUXoVybLdezq5K3QDwj23",
+  "name": "SHIELD",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "SHIELD"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "deployed",
+      "value": 1670925012
+    }
+  ]
+}

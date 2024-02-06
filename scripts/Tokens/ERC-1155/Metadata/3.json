@@ -1,0 +1,16 @@
+{
+  "description": "Sword symbolizes power, protection, authority, strength, and courage",
+  "image": "ipfs://QmZMtcqdgJgbpZuQr1RcKWSDBz1CMAFcPMHHjg8f5Dx2a2",
+  "name": "SWORD",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "SWORD"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "deployed",
+      "value": 1670925012
+    }
+  ]
+}

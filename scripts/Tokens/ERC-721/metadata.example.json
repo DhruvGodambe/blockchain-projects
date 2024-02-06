@@ -1,0 +1,32 @@
+{
+    "name": "Lucifer's sneakers",
+    "image": "ifps://",
+    "animation_url": "ipfs://",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae.",
+    "category": "Footwear",
+    "sub-category": "Sneakers",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Theme",
+            "value": "Futuristic sneakers"
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Awesomeness",
+            "value": 100
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Manufactured",
+            "value": 1671102518
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+node_modules
+cache
+artifacts
+.env
+deploy.json
+request.json
+typechain-types
+.prettierrc
+.prettierignore
+./scripts/Wormhole/RPC.json

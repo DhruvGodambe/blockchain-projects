@@ -1,0 +1,16 @@
+{
+  "description": "Elixir is the currency you use in clash of clans what you use to upgrade your Troops to make them stronger and to unlock abilities.",
+  "image": "ipfs://QmV3bnukaSBG5Rj6rSt1weVi6BsQ4Rp9cC7vC63MK7G3VJ",
+  "name": "ELIXIR",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "ELIXIR"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "deployed",
+      "value": 1670925012
+    }
+  ]
+}

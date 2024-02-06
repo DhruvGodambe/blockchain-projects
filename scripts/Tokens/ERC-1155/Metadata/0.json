@@ -1,0 +1,16 @@
+{
+  "description": "Gold is the currency you use in clash of clans what you use to upgrade your buildings to make them stronger and to unlock abilities.",
+  "image": "ipfs://QmPW8Kv8xB717sMk5ho9KBz5kzmPw7RbXHhPoEpLKwjBdT",
+  "name": "GOLD",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Gold"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "deployed",
+      "value": 1670925012
+    }
+  ]
+}

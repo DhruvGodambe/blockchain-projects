@@ -1,0 +1,16 @@
+{
+  "description": "Mjölnir is the hammer of the thunder god Thor in Norse mythology",
+  "image": "ipfs://QmTpJQ8c7hgaDUX8WsC16J84rPRXPxXZ7x9wP1coq8qMtR",
+  "name": "Thor's Hammer",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Hammer"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "deployed",
+      "value": 1670925012
+    }
+  ]
+}
